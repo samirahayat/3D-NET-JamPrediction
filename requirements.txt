@@ -1,0 +1,11 @@
+# Core simulation framework
+# Mesa <2.0 required: visualization API (CanvasGrid, ModularServer, Slider)
+# was removed/restructured in 2.0
+mesa>=1.0,<2.0
+
+# Data handling and batch-run output
+pandas>=1.5
+
+# Plotting (plot_results.py / plot_results_backup.py)
+matplotlib>=3.5
+numpy>=1.23
